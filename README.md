@@ -1,4 +1,4 @@
-# WebScrap-Worldometers
+# WebScrap-IMDB
 
 🎬 Python scraper for IMDB: Extract movie/TV details for 📊 analysis & 🗃️ storage. Easy setup, 🔧 customizable, with 🖥️ CLI.
 
